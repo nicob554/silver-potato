@@ -1,0 +1,22 @@
+{
+  "token": "8703193795:AAFaoujnMt9cu3HeO5BXgeWIBCwnGoh-prk",
+  "giorno": "Sabato",
+  "ora": "12",
+  "minuto": "20",
+  "domanda": "Weekly Attendance\nM = Morning\nA = Afternoon",
+  "opzioni": "Monday M\nMonday A\nTuesday M\nTuesday A\nWednesday M\nWednesday A\nThursday M\nThursday A\nFriday M\nFriday A\nNot coming",
+  "groups": [
+    {
+      "name": "GRUPPO TEST 2",
+      "chat_id": -1003589438312,
+      "threads": [
+        2
+      ]
+    },
+    {
+      "name": "GRUPPO TEST GENERALE",
+      "chat_id": -1003589438312,
+      "threads": []
+    }
+  ]
+}
